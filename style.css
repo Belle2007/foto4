@@ -2,6 +2,10 @@ body{
     color: rgb(255, 255, 255);
     background-color: rgb(170, 172, 171);
 }
-.cabecalho{
-    
+logo-tipo{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 30px;
+    width: 50px;
 }
