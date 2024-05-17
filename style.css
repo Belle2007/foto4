@@ -7,7 +7,7 @@ h1{
     justify-content: center;
     padding: 340px;
     margin: 24px;
-    font-size: 300px;
+    font-size: large;
 }
 .cabecalho-logo{
     display: flex;
