@@ -2,7 +2,7 @@ body{
     color: rgb(255, 255, 255);
     background-color: rgb(170, 172, 171);
 }
-logo-tipo{
+.cabecalho-logo{
     display: flex;
     justify-content: center;
     width: 200zpx;
