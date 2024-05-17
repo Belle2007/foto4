@@ -12,11 +12,11 @@ h1{
 .cabecalho-logo{
     display: flex;
     justify-content: left;
-    width: 350px;
+    width: 200px;
     padding: 150px;
     margin: 0%;
 }
 
 .logotipo{
-    width: 300px;
+    width: 200px;
 }
