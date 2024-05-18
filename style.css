@@ -12,8 +12,8 @@ h1{
 .cabecalho-logo{
     display: flex;
     justify-content: left;
-    width: 300px ;
-    padding: 150px;
+    width: 200px ;
+    padding: 100px;
     margin: 0%
     left : 500 px ;
 }
@@ -23,3 +23,11 @@ h1{
     height: 300px ;
     left : 500 px ;
 }
+h2{
+     display: flex;
+    justify-content: left;
+    padding: 89px;
+    margin: 90px;
+
+}
+
