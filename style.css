@@ -8,19 +8,13 @@ h1{
     padding: 340px;
     margin: 24px;
     font-size: large;
-}
-.cabecalho-logo{
-    display: flex;
-    justify-content: left;
-    width: 200px ;
-    padding: 100px;
-    margin: 0%
-    left : 500 px ;
-}
 
 .logotipo{
+    display: flex;
+    justify-content: left;
     width: 300px;
     height: 300px ;
+    margin: 0%;
     left : 500 px ;
 }
 h2{
